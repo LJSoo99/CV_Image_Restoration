@@ -11,7 +11,7 @@
 | Wiener Filter | 26.95 | 0.7225 | PSF·K값 필요 |
 | **DPIR (DL)** | **27.52** | **0.7652** | 데이터 기반, PSF 불필요 |
 
-비교 사
+<img width="2072" height="512" alt="comparison_4panel (1)" src="https://github.com/user-attachments/assets/2989b901-baaa-4e1f-9272-909096bbff13" />
 
 ---
 
@@ -23,7 +23,7 @@
 **기존 접근 — Wiener Filter:**  
 PSF(Point Spread Function)를 알고 있을 때 주파수 도메인에서 역필터링을 수행합니다.
 
-$$\hat{F}(u,v) = \frac{H^*(u,v)}{|H(u,v)|^2 + K} \cdot G(u,v)$$
+<img width="704" height="138" alt="534549581-3d15cb87-82cc-41b7-99e7-edf3cee4490f" src="https://github.com/user-attachments/assets/b3fdd1a6-8f07-4d7b-8a10-72eda2c56bcf" />
 
 ---
 
