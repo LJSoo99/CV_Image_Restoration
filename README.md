@@ -132,3 +132,13 @@ Half-Quadratic Splitting(HQS) 알고리즘으로 데이터 충실도와 prior를
 - Zhang et al., "Plug-and-Play Image Restoration with Deep Denoiser Prior" (IEEE TPAMI 2021) — DPIR
 - Gonzalez & Woods, "Digital Image Processing" — Wiener Filter
 - Set12 Benchmark Dataset (cszn/FFDNet)
+
+
+### 3. 실험 환경 (Experimental Environment)
+
+| 항목 (Item) | 내용 (Description) |
+| :--- | :--- |
+| **Set** | 12 Lena, $512 \times 512$ grayscale |
+| **블러 (Blur)** | Gaussian PSF ($\text{ksize}=21$, $\sigma=4.0$) |
+| **노이즈 (Noise)** | Gaussian noise ($\sigma=3$) |
+| **구현 (Implementation)** | C++ OpenCV 4.12 / Python 3.12 + PyTorch |
