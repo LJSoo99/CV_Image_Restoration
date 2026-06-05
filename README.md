@@ -134,7 +134,7 @@ Half-Quadratic Splitting(HQS) 알고리즘으로 데이터 충실도와 prior를
 - Set12 Benchmark Dataset (cszn/FFDNet)
 
 
-### 3. 실험 환경 (Experimental Environment)
+### 실험 환경 (Experimental Environment)
 
 | 항목 (Item) | 내용 (Description) |
 | :--- | :--- |
