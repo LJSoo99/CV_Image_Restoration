@@ -125,3 +125,11 @@ Half-Quadratic Splitting(HQS) 알고리즘으로 데이터 충실도와 prior를
 │   └── dpir_restored.png         # DPIR 복원 결과
 └── README.md
 ```
+
+---
+
+## 7. 참고 문헌
+
+- Zhang et al., "Plug-and-Play Image Restoration with Deep Denoiser Prior" (IEEE TPAMI 2021) — DPIR
+- Gonzalez & Woods, "Digital Image Processing" — Wiener Filter
+- Set12 Benchmark Dataset (cszn/FFDNet)
